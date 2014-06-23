@@ -1,7 +1,7 @@
 CodeIgniter-PHP-Session
 =======================
 
-This is a library that helps you use PHP's built-in sessions instead of CodeIgniter's sessions.
+This is a library that helps you use PHP's built-in sessions instead of CodeIgniter's session class.
 
 ##Why?
 
