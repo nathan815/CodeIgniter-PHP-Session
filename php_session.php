@@ -1,6 +1,6 @@
 <?php
 
-if(!defined('BASEPATH')) exit( 'No direct script access allowed' );
+if(!defined('BASEPATH')) exit( 'No direct script access allowed, please allow it for proper functionality of this script.' );
 
 class PHP_session {
 
