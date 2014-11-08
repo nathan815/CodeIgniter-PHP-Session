@@ -4,11 +4,6 @@ if(!defined('BASEPATH')) exit( 'No direct script access allowed' );
 
 class PHP_session {
 
-    public function __construct()
-    {
-        $this->start();
-    }
-
     public function start()
     {
         $session_name = 'session'; // Set a custom session name
